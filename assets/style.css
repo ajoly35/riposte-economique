@@ -1,0 +1,33 @@
+:root {
+  --bg: #fbfaf7; --text: #1f1d1a; --muted: #6b665e; --rule: #e4e0d8;
+  --accent: #7a2e1f; --panel: #f3f0ea; --link: #7a2e1f;
+}
+@media (prefers-color-scheme: dark) {
+  :root { --bg: #161513; --text: #ebe7df; --muted: #a39d93; --rule: #34312c;
+          --accent: #e3a08f; --panel: #201e1b; --link: #e3a08f; }
+}
+* { box-sizing: border-box; }
+html { -webkit-text-size-adjust: 100%; }
+body { margin: 0; background: var(--bg); color: var(--text);
+  font: 18px/1.65 "Source Serif 4", Georgia, serif; }
+.page { max-width: 46rem; margin: 0 auto; padding: 3rem 1rem 2rem; }
+h1, h2, h3, h4, .byline, .toc-label, footer { font-family: Inter, system-ui, sans-serif; }
+h1 { font-size: 2.1rem; line-height: 1.2; margin: 0 0 .5rem; letter-spacing: -.01em; }
+h2 { font-size: 1.35rem; margin: 3rem 0 .75rem; padding-top: 1rem; border-top: 1px solid var(--rule); }
+h3 { font-size: 1.05rem; margin: 2rem 0 .5rem; }
+p { margin: 0 0 1rem; }
+a { color: var(--link); text-decoration-thickness: 1px; text-underline-offset: 2px; }
+.byline { color: var(--muted); font-size: .9rem; margin-bottom: 2rem; }
+.lead { font-size: 1.15rem; }
+#markdown-toc { font-family: Inter, system-ui, sans-serif; font-size: .92rem; background: var(--panel);
+  border-radius: 6px; padding: 1rem 1rem 1rem 2.2rem; margin: 0 0 2rem; }
+#markdown-toc li { margin: .15rem 0; }
+.latest { background: var(--panel); border-left: 3px solid var(--accent); border-radius: 0 6px 6px 0;
+  padding: .25rem 1.25rem 1rem; margin: 1rem 0 2rem; }
+.latest h2 { border-top: 0; margin-top: 1rem; padding-top: 0; }
+.latest h3 { font-size: 1rem; color: var(--accent); }
+ul { padding-left: 1.3rem; } li { margin: .35rem 0; }
+.references p { font-size: .88rem; line-height: 1.5; padding-left: 1.5rem; text-indent: -1.5rem; margin-bottom: .5rem; }
+.footnotes { font-size: .88rem; color: var(--muted); border-top: 1px solid var(--rule); margin-top: 2rem; }
+mjx-container[display="true"] { overflow-x: auto; overflow-y: hidden; padding: .5rem 0; }
+.footer { font-size: .8rem; color: var(--muted); padding-top: 0; }

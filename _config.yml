@@ -1,0 +1,9 @@
+title: "Riposte économique"
+description: "Les chiffres des autres programmes, vérifiés et sourcés. Une riposte par fait, mise à jour chaque jour ouvré."
+lang: fr
+markdown: kramdown
+kramdown:
+  input: GFM
+  auto_ids: true
+  hard_wrap: false
+exclude: [scripts, README.md, ROUTINE.md, contributeurs.txt]

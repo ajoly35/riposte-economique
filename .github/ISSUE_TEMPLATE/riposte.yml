@@ -1,0 +1,18 @@
+name: Proposer une riposte
+description: Envoyer une déclaration, un article ou un tweet sur l'économie à vérifier. La riposte est ajoutée au prochain envoi si les chiffres le justifient.
+title: "Riposte : "
+labels: ["riposte"]
+body:
+  - type: input
+    id: link
+    attributes:
+      label: Lien
+      description: Tweet, vidéo, article ou document du candidat.
+      placeholder: https://
+    validations:
+      required: true
+  - type: textarea
+    id: note
+    attributes:
+      label: Ce qui pose problème (facultatif)
+      description: Une ligne suffit, par exemple le chiffre contesté et, pour une vidéo, le minutage.

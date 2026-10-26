@@ -1,0 +1,3 @@
+# Comptes GitHub dont les propositions sont traitées par la routine, un par ligne.
+# Les propositions des autres comptes sont ignorées.
+ajoly35

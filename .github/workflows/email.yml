@@ -1,0 +1,45 @@
+# When new ripostes land on main, email them to the recipient list (repository secrets).
+name: Envoi des ripostes
+on:
+  push:
+    branches: [main]
+    paths: ["_includes/latest.md"]
+  workflow_dispatch:
+    inputs:
+      test_to:
+        description: "Test : envoyer toutes les ripostes à cette seule adresse"
+        required: true
+permissions:
+  contents: read
+jobs:
+  email:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Collect the entries added in this push
+        id: added
+        run: |
+          before="${{ github.event.before }}"
+          empty_tree=$(git hash-object -t tree /dev/null)
+          if [ "${{ github.event_name }}" = workflow_dispatch ] || ! git cat-file -e "$before^{commit}" 2>/dev/null; then before=$empty_tree; fi
+          git diff --unified=0 "$before" HEAD -- _includes/latest.md \
+            | grep '^+' | grep -v '^+++' | sed 's/^+//' > added.md || true
+          if ! grep -q '^### ' added.md; then echo "none=true" >> "$GITHUB_OUTPUT"; fi
+      - name: Send the email
+        if: steps.added.outputs.none != 'true'
+        env:
+          SMTP_HOST: ${{ secrets.SMTP_HOST }}
+          SMTP_PORT: ${{ secrets.SMTP_PORT }}
+          SMTP_USER: ${{ secrets.SMTP_USER }}
+          SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
+          MAIL_FROM_NAME: ${{ secrets.MAIL_FROM_NAME }}
+          RECIPIENTS: ${{ secrets.RECIPIENTS }}
+          TEST_TO: ${{ inputs.test_to }}
+        run: |
+          if [ -z "$SMTP_HOST" ] || [ -z "$SMTP_USER" ] || [ -z "$SMTP_PASSWORD" ]; then
+            echo "::notice::Mail secrets not set yet; nothing sent."; exit 0
+          fi
+          pip install --quiet markdown==3.7
+          python3 -I scripts/send_email.py added.md

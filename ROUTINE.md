@@ -1,6 +1,6 @@
 # Instructions for the daily riposte routine
 
-A scheduled Claude routine runs these instructions every weekday morning. Edit this file to change what it does; the routine reads it at each run.
+A scheduled Claude routine runs these instructions every morning. Edit this file to change what it does; the routine reads it at each run.
 
 ## Goal
 Add every new riposte that passes the checks below to `_includes/latest.md`, with no maximum, then push to `main`. The push emails the new entries to the recipient list. No new entry is better than a weak one: if nothing passes the checks below, push nothing.

@@ -6,4 +6,4 @@ kramdown:
   input: GFM
   auto_ids: true
   hard_wrap: false
-exclude: [scripts, README.md, ROUTINE.md, contributeurs.txt]
+exclude: [scripts, README.md, ROUTINE.md, contributeurs.txt, traites.txt]

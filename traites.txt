@@ -1,0 +1,1 @@
+# Propositions déjà traitées par la routine : <numéro> <ajoutée|non retenue> <raison>

@@ -12,7 +12,7 @@ Source of the page https://ajoly35.github.io/riposte-economique/ (GitHub Pages, 
 ## How it works
 1. Every weekday morning a scheduled Claude routine reads `ROUTINE.md`, processes submissions and recent rival claims, and adds every verified riposte it finds to `_includes/latest.md`.
 2. Each push that adds entries runs `.github/workflows/email.yml`, which emails only the new entries, in Bcc, from the mailbox set in the secrets.
-3. Submissions: https://github.com/ajoly35/riposte-economique/issues/new?template=riposte.yml (link, optional note). Only accounts in `contributeurs.txt` are processed.
+3. Submissions: https://github.com/ajoly35/riposte-economique/issues/new?template=riposte.yml (link, optional note). Only accounts in `contributeurs.txt` are processed. Opening a submission fires a second routine at once (GitHub event `issues.opened`), which processes submissions only; it also sweeps them every Sunday at 17:00 UTC.
 
 ## Email setup (once)
 Settings → Secrets and variables → Actions → New repository secret:

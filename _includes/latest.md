@@ -6,7 +6,7 @@
 
 **Ce que disent les chiffres.** Revenir à 62 ans coûterait 26,5 à 34,7 Md€ par an, et le volet retraites de LFI, avec 60 ans, environ 86 Md€ par an selon l'Institut Montaigne. Ce coût s'ajoute à une tendance de trente ans : la protection sociale et la santé sont passées de 53,1 % des dépenses publiques en 1995 à 58,7 % en 2024, pendant que l'éducation, la défense et la sécurité tombaient de 15,2 % à 13,7 % (Hanno Lustig, Stanford). Une retraite plus tôt, non financée, se paie par la dette puis par des coupes dans l'école, l'armée, la police et les infrastructures.
 
-**En une phrase.** Chaque année de retraite en moins se paie en écoles, en soldats et en policiers.
+**En une phrase.** Avancer la retraite d'un an, sans la financer, se paie en écoles, en soldats et en policiers.
 
 **Sources.** [Hanno Lustig, The Two Cents, 18/10/2026](https://thetwocents.substack.com/p/the-french-state-crowded-out-by-government) ; [Institut Montaigne, via Moneyvox](https://www.moneyvox.fr/retraite/actualites/98707/abroger-la-reforme-des-retraites-et-le-depart-a-64-ans-combien-ca-coute) ; [Institut Montaigne, chiffrage LFI 2022](https://www.institutmontaigne.org/presidentielle-2022/jean-luc-melenchon/retablir-la-retraite-a-60-ans-apres-40-ans-annees-de-cotisation/)
 

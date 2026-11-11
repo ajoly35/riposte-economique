@@ -1,3 +1,15 @@
+### Bardella : 62 ans et 42 annuités sans cotiser plus, une facture d'environ 14 Md€ par an
+
+*RN · Retraites · 11 novembre 2026*
+
+**Ce qu'ils disent.** Le 10 novembre 2026 sur BFMTV, Jordan Bardella a redit vouloir ramener l'âge légal à 62 ans avec 42 années de cotisation, sans demander aux Français de cotiser davantage. Il propose aussi un fonds souverain par capitalisation, alimenté par l'épargne volontaire.
+
+**Ce que disent les chiffres.** Selon la Cour des comptes, revenir à 62 ans creuserait le déficit des retraites de 10,4 Md€ en 2035. Passer de 43 à 42 années de cotisation coûterait 3,9 Md€ de plus au système en 2035. Ces deux estimations, faites séparément, s'additionnent à environ 14,3 Md€ par an. Elles viennent s'ajouter au déficit déjà prévu, près de 15 Md€ en 2035. Pour l'ensemble des finances publiques, la note est plus lourde : un an d'âge en moins coûte 13 Md€ en 2035, contre 5,8 Md€ pour les seules retraites. Le fonds par capitalisation ne paie pas les pensions actuelles : l'épargne versée sert la retraite future de chaque épargnant.
+
+**En une phrase.** Partir à 62 ans avec 42 annuités coûte environ 14 milliards par an aux seules retraites, et rien dans la proposition ne dit qui les paie.
+
+**Sources.** [BFM Business, 10/11/2026](https://www.bfmtv.com/economie/patrimoine/retraite/partir-a-62-ans-ne-pas-cotiser-davantage-et-economiser-140-milliards-d-euros-comment-jordan-bardella-compte-t-il-financer-ses-promesses-qui-couteraient-pres-de-15-milliards-d-euros-de-plus-par-an_AV-202611100981.html) ; [Cour des comptes, Situation financière et perspectives du système de retraites, février 2025](https://www.vie-publique.fr/files/rapport/pdf/297428.pdf) ; [Public Sénat, audition de la Cour des comptes, 05/03/2025](https://www.publicsenat.fr/actualites/emploi/retraites-si-vous-abrogez-la-reforme-de-2023-cest-10-milliards-deuros-de-plus-quil-faut-trouver-souligne-pierre-moscovici)
+
 ### Le Pen et Mélenchon : avancer l'âge de la retraite, c'est moins d'école, d'armée et de police
 
 *RN, LFI · Retraites, dépense publique · 26 octobre 2026*

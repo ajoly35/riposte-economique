@@ -1,3 +1,15 @@
+### Zemmour : 800 000 postes de fonctionnaires en moins sans licenciement, c'est près de six ans de départs à la retraite
+
+*Reconquête · Fonction publique · 13 novembre 2026*
+
+**Ce qu'ils disent.** Le 12 novembre 2026 sur franceinfo, Éric Zemmour a dit vouloir ne pas renouveler 800 000 emplois publics, tout en sanctuarisant 2,2 millions d'emplois (enseignants, militaires, policiers, soignants). « Il n'y a pas de feuille de licenciement, ce sont des emplois que nous ne renouvelons pas », a-t-il précisé.
+
+**Ce que disent les chiffres.** La fonction publique a enregistré 136 700 départs à la retraite en 2024, selon la DGAFP. 800 000 postes, c'est près de six années de départs à la retraite, si aucun n'était remplacé dans toute la fonction publique. Sur un quinquennat, ne remplacer aucun départ à la retraite donnerait environ 684 000 postes, au rythme de 2024. Or les départs des 2,2 millions d'emplois protégés devront, eux, être remplacés. Le reste devrait venir surtout de contrats non renouvelés, dont beaucoup correspondent à des postes qu'il faudra pourvoir.
+
+**En une phrase.** Même sans remplacer un seul fonctionnaire partant à la retraite, il faudrait près de six ans pour supprimer 800 000 postes.
+
+**Sources.** [franceinfo, 12/11/2026](https://www.franceinfo.fr/elections/presidentielle/presidentielle-eric-zemmour-souhaite-supprimer-800-000-postes-dans-la-fonction-publique_8279303.html) ; [DGAFP, rapport annuel 2025, Les départs à la retraite dans la fonction publique en 2024](https://www.fonction-publique.gouv.fr/files/files/publications/vue-rapport-annuel/ra_2025_vue_flux_de_personnels_retraites.pdf)
+
 ### Bardella : 62 ans et 42 annuités sans cotiser plus, une facture d'environ 14 Md€ par an
 
 *RN · Retraites · 11 novembre 2026*

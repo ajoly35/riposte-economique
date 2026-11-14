@@ -1,3 +1,15 @@
+### Dupont-Aignan : le Smic à 1 600 € net, c'est 122 € de plus par mois, pas 98 €
+
+*Debout la France · Salaires · 14 novembre 2026*
+
+**Ce qu'ils disent.** Dans le livret économique présenté le 12 novembre 2026, Nicolas Dupont-Aignan propose d'« augmenter le SMIC à 1 600 euros net (98 euros supplémentaires par mois) ». La hausse serait compensée par une baisse des cotisations salariales, pour 2,5 millions de salariés.
+
+**Ce que disent les chiffres.** Depuis le 1er juin 2026, le Smic mensuel est de 1 867,02 € brut et d'environ 1 477,93 € net, selon Service-public.fr. Pour atteindre 1 600 € net, il faut donc 122,07 € de plus par mois, soit environ 25 % de plus que les 98 € annoncés. Entre le brut et le net du Smic, il y a 389,09 € de cotisations et contributions salariales par mois. La mesure revient à en supprimer près d'un tiers (31 %), sans dire ce qui remplace ces recettes.
+
+**En une phrase.** Pour passer le Smic à 1 600 € net, il manque 122 € par mois, pas 98 €, et le programme ne dit pas qui paie la différence.
+
+**Sources.** [Debout la France, livret Économie, 12/11/2026](https://www.debout-la-france.fr/wp-content/uploads/2026/11/Economie-2026_11-12_Livret.pdf) ; [Debout la France, projet Économie](https://www.debout-la-france.fr/projet/economie-travail/) ; [Service-public.fr, montant du Smic, vérifié le 01/06/2026](https://www.service-public.gouv.fr/particuliers/vosdroits/F2300) ; [Insee, Smic brut 2026](https://www.insee.fr/fr/statistiques/1375188)
+
 ### Zemmour : 800 000 postes de fonctionnaires en moins sans licenciement, c'est près de six ans de départs à la retraite
 
 *Reconquête · Fonction publique · 13 novembre 2026*

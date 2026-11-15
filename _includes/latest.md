@@ -1,3 +1,15 @@
+### Mélenchon : sans mode de garde, c'est un parent sur cinq, pas un sur deux
+
+*LFI · Petite enfance, emploi · 15 novembre 2026*
+
+**Ce qu'ils disent.** Le 12 novembre 2026 sur franceinfo, Jean-Luc Mélenchon a défendu un service public de la petite enfance : « Un parent sur deux reste sans solution, 160 000 personnes n'ont pas de solutions et ne peuvent pas retourner au travail. »
+
+**Ce que disent les chiffres.** Le chiffre de 160 000 est juste. Le Haut Conseil de la famille, de l'enfance et de l'âge (HCFEA) estime entre 150 000 et 160 000 le nombre de chômeurs qui ne pourraient reprendre un emploi qu'avec une solution d'accueil pour leur enfant de moins de 3 ans. Mais selon le même rapport, un parent sur cinq (20,5 % en 2021) garde lui-même son enfant faute d'avoir trouvé une crèche ou une assistante maternelle. C'est 2,5 fois moins qu'un parent sur deux. Le manque de places reste réel : en 2019, il y avait 59,8 places d'accueil formel pour 100 enfants de moins de 3 ans.
+
+**En une phrase.** Le manque de places d'accueil empêche bien 160 000 personnes de retravailler, mais il concerne un parent sur cinq, pas un sur deux.
+
+**Sources.** [franceinfo, Le Vrai ou Faux, 13/11/2026](https://www.franceinfo.fr/replay-radio/le-vrai-du-faux/vrai-ou-faux-nos-services-publics-nous-avons-verifie-des-declarations-des-huit-candidats-a-la-presidentielle_8259722.html) ; [HCFEA, Accueil des enfants de moins de 3 ans : relancer la dynamique, mars 2023, p. 41, 64 et 162](https://www.strategie-plan.gouv.fr/files/files/Publications/Rapport/hcfea_-_rapport_-_accueil_du_jeune_enfant_-_mars_2023_compressed%20%281%29.pdf)
+
 ### Dupont-Aignan : le Smic à 1 600 € net, c'est 122 € de plus par mois, pas 98 €
 
 *Debout la France · Salaires · 14 novembre 2026*

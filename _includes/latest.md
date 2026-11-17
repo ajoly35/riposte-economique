@@ -52,11 +52,11 @@
 
 **Ce qu'ils disent.** Marine Le Pen veut revenir à 62 ans, Jean-Luc Mélenchon à 60 ans, et tous deux présentent la mesure comme financée.
 
-**Ce que disent les chiffres.** Revenir à 62 ans coûterait 26,5 à 34,7 Md€ par an, et le volet retraites de LFI, avec 60 ans, environ 86 Md€ par an selon l'Institut Montaigne. Ce coût s'ajoute à une tendance de trente ans : la protection sociale et la santé sont passées de 53,1 % des dépenses publiques en 1995 à 58,7 % en 2024, pendant que l'éducation, la défense et la sécurité tombaient de 15,2 % à 13,7 % (Hanno Lustig, Stanford). Une retraite plus tôt, non financée, se paie par la dette puis par des coupes dans l'école, l'armée, la police et les infrastructures.
+**Ce que disent les chiffres.** Revenir à 62 ans coûterait 26,5 à 34,7 Md€ par an, et l'ensemble du volet retraites de la gauche (60 ans, minimum de pension au SMIC, années de RSA validées) environ 58 Md€ par an selon l'Institut Montaigne en 2024 (49 à 67 Md€). Ce coût s'ajoute à une tendance de trente ans : la protection sociale et la santé sont passées de 53,1 % des dépenses publiques en 1995 à 58,7 % en 2024, pendant que l'éducation, la défense et la sécurité tombaient de 15,2 % à 13,7 % (Hanno Lustig, Stanford). Une retraite plus tôt, non financée, se paie par la dette puis par des coupes dans l'école, l'armée, la police et les infrastructures.
 
 **En une phrase.** Avancer la retraite d'un an, sans la financer, se paie en écoles, en soldats et en policiers.
 
-**Sources.** [Hanno Lustig, The Two Cents, 18/10/2026](https://thetwocents.substack.com/p/the-french-state-crowded-out-by-government) ; [Institut Montaigne, via Moneyvox](https://www.moneyvox.fr/retraite/actualites/98707/abroger-la-reforme-des-retraites-et-le-depart-a-64-ans-combien-ca-coute) ; [Institut Montaigne, chiffrage LFI 2022](https://www.institutmontaigne.org/presidentielle-2022/jean-luc-melenchon/retablir-la-retraite-a-60-ans-apres-40-ans-annees-de-cotisation/)
+**Sources.** [Hanno Lustig, The Two Cents, 18/10/2026](https://thetwocents.substack.com/p/the-french-state-crowded-out-by-government) ; [Institut Montaigne, via Moneyvox](https://www.moneyvox.fr/retraite/actualites/98707/abroger-la-reforme-des-retraites-et-le-depart-a-64-ans-combien-ca-coute) ; [Institut Montaigne, chiffrage LFI 2022](https://www.institutmontaigne.org/presidentielle-2022/jean-luc-melenchon/retablir-la-retraite-a-60-ans-apres-40-ans-annees-de-cotisation/) ; [Institut Montaigne, chiffrage NFP 2024](https://www.institutmontaigne.org/legislatives-2024/nouveau-front-populaire/abroger-la-reforme-des-retraites-restaurer-la-retraite-a-60-ans-en-prenant-en-compte-le-rsa-en-portant-le-minimum-contributif-au-smic)
 
 ### Mélenchon : la retraite à 60 ans, la mesure la plus chère, n'est pas chiffrée
 
@@ -64,11 +64,11 @@
 
 **Ce qu'ils disent.** Le contre-budget de LFI pour 2027 promet la retraite à 60 ans et se présente comme financé.
 
-**Ce que disent les chiffres.** Le document inscrit 9 Md€ pour revenir à 62 ans, et rien pour l'étape suivante, 60 ans. En 2022, LFI chiffrait elle-même ce seul retour à 27 Md€ par an, et l'Institut Montaigne l'ensemble de son volet retraites à environ 86 Md€ par an, plus que tout le budget de l'Éducation nationale (environ 63 Md€).
+**Ce que disent les chiffres.** Le document inscrit 9 Md€ pour revenir à 62 ans, et rien pour l'étape suivante, 60 ans. En 2022, LFI chiffrait elle-même ce seul retour à 27 Md€ par an, et l'Institut Montaigne chiffrait en 2024 l'ensemble du volet retraites de la gauche (60 ans, minimum de pension au SMIC, années de RSA validées) à environ 58 Md€ par an, dont 27 Md€ pour le seul retour sur la réforme de 2010.
 
 **En une phrase.** La promesse la plus chère du programme est la seule qui n'a pas de prix.
 
-**Sources.** [LFI, contre-budget 2027, p. 11](https://melenchon2027.fr/wp-content/uploads/2026/10/Comment-nous-allons-remettre-de-l-ordre-dans-les-comptes-publics.pdf) ; [Institut Montaigne, chiffrage 2022](https://www.institutmontaigne.org/presidentielle-2022/jean-luc-melenchon/retablir-la-retraite-a-60-ans-apres-40-ans-annees-de-cotisation/)
+**Sources.** [LFI, contre-budget 2027, p. 11](https://melenchon2027.fr/wp-content/uploads/2026/10/Comment-nous-allons-remettre-de-l-ordre-dans-les-comptes-publics.pdf) ; [Institut Montaigne, chiffrage 2022](https://www.institutmontaigne.org/presidentielle-2022/jean-luc-melenchon/retablir-la-retraite-a-60-ans-apres-40-ans-annees-de-cotisation/) ; [Institut Montaigne, chiffrage NFP 2024](https://www.institutmontaigne.org/legislatives-2024/nouveau-front-populaire/abroger-la-reforme-des-retraites-restaurer-la-retraite-a-60-ans-en-prenant-en-compte-le-rsa-en-portant-le-minimum-contributif-au-smic)
 
 ### Le Pen : sur 141,7 Md€ d'économies annoncées, 7,5 Md€ sont crédibles
 

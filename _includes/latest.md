@@ -34,15 +34,15 @@
 
 **Sources.** [franceinfo, 12/11/2026](https://www.franceinfo.fr/elections/presidentielle/presidentielle-eric-zemmour-souhaite-supprimer-800-000-postes-dans-la-fonction-publique_8279303.html) ; [DGAFP, rapport annuel 2025, Les départs à la retraite dans la fonction publique en 2024](https://www.fonction-publique.gouv.fr/files/files/publications/vue-rapport-annuel/ra_2025_vue_flux_de_personnels_retraites.pdf)
 
-### Bardella : 62 ans et 42 annuités sans cotiser plus, une facture d'environ 14 Md€ par an
+### Bardella : 62 ans et 42 annuités sans cotiser plus, une facture d'environ 15 Md€ par an
 
 *RN · Retraites · 11 novembre 2026*
 
 **Ce qu'ils disent.** Le 10 novembre 2026 sur BFMTV, Jordan Bardella a redit vouloir ramener l'âge légal à 62 ans avec 42 années de cotisation, sans demander aux Français de cotiser davantage. Il propose aussi un fonds souverain par capitalisation, alimenté par l'épargne volontaire.
 
-**Ce que disent les chiffres.** Selon la Cour des comptes, revenir à 62 ans creuserait le déficit des retraites de 10,4 Md€ en 2035. Passer de 43 à 42 années de cotisation coûterait 3,9 Md€ de plus au système en 2035. Ces deux estimations, faites séparément, s'additionnent à environ 14,3 Md€ par an. Elles viennent s'ajouter au déficit déjà prévu, près de 15 Md€ en 2035. Pour l'ensemble des finances publiques, la note est plus lourde : un an d'âge en moins coûte 13 Md€ en 2035, contre 5,8 Md€ pour les seules retraites. Le fonds par capitalisation ne paie pas les pensions actuelles : l'épargne versée sert la retraite future de chaque épargnant.
+**Ce que disent les chiffres.** Selon la Cour des comptes, avancer l'âge légal d'un an (63 ans au lieu de 64) coûterait 5,8 Md€ aux retraites en 2035. Revenir à 62 ans, c'est deux ans : environ 11,6 Md€ si l'effet est proportionnel (notre calcul). Passer de 43 à 42 années de cotisation coûterait 3,9 Md€ de plus en 2035. Ces estimations, faites séparément, s'additionnent à environ 15,5 Md€ par an (notre calcul). Elles viennent s'ajouter au déficit déjà prévu, près de 15 Md€ en 2035. Pour l'ensemble des finances publiques, la note est plus lourde : un an d'âge en moins coûte 13 Md€ en 2035, contre 5,8 Md€ pour les seules retraites. Le fonds par capitalisation ne paie pas les pensions actuelles : l'épargne versée sert la retraite future de chaque épargnant.
 
-**En une phrase.** Partir à 62 ans avec 42 annuités coûte environ 14 milliards par an aux seules retraites, et rien dans la proposition ne dit qui les paie.
+**En une phrase.** Partir à 62 ans avec 42 annuités coûte environ 15 milliards par an aux seules retraites, et rien dans la proposition ne dit qui les paie.
 
 **Sources.** [BFM Business, 10/11/2026](https://www.bfmtv.com/economie/patrimoine/retraite/partir-a-62-ans-ne-pas-cotiser-davantage-et-economiser-140-milliards-d-euros-comment-jordan-bardella-compte-t-il-financer-ses-promesses-qui-couteraient-pres-de-15-milliards-d-euros-de-plus-par-an_AV-202611100981.html) ; [Cour des comptes, Situation financière et perspectives du système de retraites, février 2025](https://www.vie-publique.fr/files/rapport/pdf/297428.pdf) ; [Public Sénat, audition de la Cour des comptes, 05/03/2025](https://www.publicsenat.fr/actualites/emploi/retraites-si-vous-abrogez-la-reforme-de-2023-cest-10-milliards-deuros-de-plus-quil-faut-trouver-souligne-pierre-moscovici)
 

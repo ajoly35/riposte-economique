@@ -1,3 +1,15 @@
+### Attal : supprimer la CSG sur les salaires, c'est 94 Md€ de recettes par an à remplacer
+
+*Renaissance · Fiscalité, Sécurité sociale · 18 novembre 2026*
+
+**Ce qu'ils disent.** Le 16 novembre 2026, lors du débat de TF1 et LCI, Gabriel Attal a dit, à propos de la CSG prélevée sur la fiche de paie : « Je propose de supprimer cette ligne. » Il annonce un gain allant « jusqu'à 270 euros net par mois pour les personnes qui travaillent », financé surtout par une baisse des dépenses de fonctionnement de l'État, sans en chiffrer le coût.
+
+**Ce que disent les chiffres.** Selon la Commission des comptes de la Sécurité sociale, la CSG sur les salaires a rapporté 93,7 Md€ en 2025 : 73,7 Md€ dans le secteur privé et 20,0 Md€ dans le secteur public. C'est près de 60 % de toute la CSG, qui a rapporté 157,2 Md€. Pour 2026, la Commission prévoit 95,3 Md€ sur les salaires. Dans sa lettre aux Français sur les finances publiques, le candidat chiffre à « plus de 7 milliards d'euros » par an les économies sur l'organisation de l'État et des collectivités. C'est environ 13 fois moins que la recette à remplacer. C'est aussi près de cinq fois son « frein d'urgence » de 20 Md€ d'économies.
+
+**En une phrase.** Supprimer la CSG sur les salaires retire 94 milliards d'euros par an à la Sécurité sociale, treize fois les économies chiffrées sur l'État et les collectivités.
+
+**Sources.** [Capital, via Yahoo Finance, 17/11/2026](https://fr.finance.yahoo.com/actualites/gain-jusqu%C3%A0-270-euros-net-062326677.html) ; [Commission des comptes de la Sécurité sociale, mai 2026, p. 53, tableaux 1 et 2](https://www.securite-sociale.fr/files/live/sites/SSFR/files/medias/CCSS/2026/CCSS%20mai%202026_assembl%C3%A9_V2.pdf) ; [Gabriel Attal, Lettre aux Français sur les finances publiques](https://doc.parti.re/2026/Lettre-finances-publiques.pdf)
+
 ### Mélenchon : sans mode de garde, c'est un parent sur cinq, pas un sur deux
 
 *LFI · Petite enfance, emploi · 15 novembre 2026*

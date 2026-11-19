@@ -1,3 +1,15 @@
+### Le Pen : les 12 Md€ de la capitalisation financent déjà les aides au logement et l'apprentissage
+
+*RN · Retraites, logement, formation · 19 novembre 2026*
+
+**Ce qu'ils disent.** Le 17 novembre 2026, Marine Le Pen a présenté sa réforme des retraites, avec un pilier obligatoire par capitalisation. Selon le RN, il recevrait « un flux minimum de 12 milliards d'euros par an », pris sur des cotisations patronales existantes, sans nouveau prélèvement : le « 1 % logement », la contribution au Fonds national d'aide au logement (FNAL) et la moitié des contributions à la formation professionnelle.
+
+**Ce que disent les chiffres.** Ces cotisations sont déjà dépensées. La contribution des employeurs au FNAL rapportait 3 Md€ en 2024, affectés aux aides personnelles au logement (APL). Depuis 2025, elle est versée au budget de l'État, qui finance désormais seul les APL : 16,1 Md€ dans le projet de budget 2026, selon la commission des finances du Sénat. Les contributions à la formation professionnelle et à l'apprentissage ont rapporté 11,06 Md€ à France compétences en 2025. En prendre la moitié, c'est environ 5,5 Md€ de moins par an (notre calcul). Or France compétences a perdu 351 M€ en 2025, malgré près de 1 Md€ de dotations de l'État, et sa situation nette était négative de 10,4 Md€ fin 2025. Au total, au moins 8,5 Md€ des 12 Md€ annoncés (notre calcul) devront être remplacés par l'impôt ou la dette, ou retirés aux APL et à l'apprentissage.
+
+**En une phrase.** Les 12 milliards de la capitalisation du RN ne sont pas de l'argent qui dort : ils paient aujourd'hui des aides au logement et l'apprentissage.
+
+**Sources.** [Euronews, 17/11/2026](https://fr.euronews.com/2026/11/17/dose-de-capitalisation-depart-de-60-a-62-ans-marine-le-pen-devoile-sa-reforme-des-retraite) ; [Public Sénat, 17/11/2026](https://www.publicsenat.fr/actualites/politique/presidentielle-2027-que-contient-la-reforme-des-retraites-presentee-par-marine-le-pen) ; [Sénat, rapport sur le PLF 2026, Logement et ville, novembre 2025, p. 39 et 40](https://www.senat.fr/rap/l25-139-35-1/l25-139-35-11.pdf) ; [France compétences, comptes annuels 2025](https://www.francecompetences.fr/app/uploads/2026/09/20251231-Comptes-annuels-2025-France-competences.pdf)
+
 ### Attal : supprimer la CSG sur les salaires, c'est 94 Md€ de recettes par an à remplacer
 
 *Renaissance · Fiscalité, Sécurité sociale · 18 novembre 2026*

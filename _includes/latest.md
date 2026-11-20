@@ -1,3 +1,15 @@
+### Bardella : la TVA à 5,5 % sur les carburants ferait gagner environ 12 € sur un plein de 50 litres, pas 20 €
+
+*RN · Énergie, fiscalité · 20 novembre 2026*
+
+**Ce qu'ils disent.** Le 18 novembre 2026 sur France 5, dans « C à Vous », Jordan Bardella a présenté la baisse de la TVA sur l'énergie comme la première mesure du RN au pouvoir. Ramener la TVA de 20 % à 5,5 % permettrait, selon lui, d'économiser « 20 euros sur un plein de 50 litres ».
+
+**Ce que disent les chiffres.** Selon la Direction générale de l'énergie et du climat (DGEC), le litre coûtait en moyenne 1,99 € pour le SP95-E10 et 2,12 € pour le gazole le 13 novembre 2026, toutes taxes comprises. À ce prix, la TVA à 20 % représente 33 centimes par litre de SP95-E10 et 35 centimes par litre de gazole. À 5,5 %, elle tomberait à environ 9 et 10 centimes. Le gain serait donc d'environ 24 centimes par litre de SP95-E10 et 26 centimes par litre de gazole, soit 12,03 € et 12,83 € sur 50 litres (notre calcul). C'est 35 à 40 % de moins que les 20 € annoncés. Ce calcul suppose en plus que les distributeurs répercutent toute la baisse sur le prix à la pompe. Pour gagner 20 € sur 50 litres, il faudrait un litre à environ 3,31 €, soit 1,32 € de plus que le prix actuel du SP95-E10 (notre calcul).
+
+**En une phrase.** Au prix actuel, passer la TVA des carburants à 5,5 % ferait gagner environ 12 € sur un plein de 50 litres, pas 20 €.
+
+**Sources.** [Capital, via Yahoo Finance, 18/11/2026](https://fr.finance.yahoo.com/actualites/m%C3%AAme-d%C3%A9put%C3%A9-europ%C3%A9en-jordan-bardella-213321519.html) ; [DGEC, Cours, prix et marges des produits pétroliers, note du 13 novembre 2026, p. 6](https://www.ecologie.gouv.fr/sites/default/files/documents/NPG-2026.11.13.pdf)
+
 ### Le Pen : les 12 Md€ de la capitalisation financent déjà les aides au logement et l'apprentissage
 
 *RN · Retraites, logement, formation · 19 novembre 2026*

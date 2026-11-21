@@ -1,3 +1,15 @@
+### Attal : au rythme américain depuis 2000, la productivité française serait 28 % plus élevée, pas 50 %
+
+*Renaissance · Salaires, productivité · 21 novembre 2026*
+
+**Ce qu'ils disent.** Le 19 novembre 2026 sur France 2, dans « L'Heure de vérité », Gabriel Attal a expliqué la stagnation des salaires par la faiblesse des gains de productivité : « Si la productivité en France avait connu la même croissance que la productivité américaine depuis le début des années 2000, on gagnerait 50 % de plus. »
+
+**Ce que disent les chiffres.** Selon la base de données de l'OCDE sur la productivité, le PIB par heure travaillée, en volume, a augmenté de 50,6 % aux États-Unis entre 2000 et 2025. En France, il a augmenté de 17,4 % sur la même période. Les 50 % sont proches de la seule hausse américaine, pas de l'écart avec la France. Si la productivité française avait progressé au rythme américain depuis 2000, elle serait aujourd'hui environ 28 % plus élevée (notre calcul). Même si toute cette hausse était passée dans les salaires, le gain serait d'environ 28 %, pas de 50 %.
+
+**En une phrase.** Avec la croissance américaine de la productivité depuis 2000, un Français produirait environ 28 % de plus par heure travaillée, pas 50 %.
+
+**Sources.** [franceinfo, 19/11/2026](https://franceinfo.fr/politique/gabriel-attal/primaire-racisme-referendums-ia-ce-qu-il-faut-retenir-de-l-interview-de-gabriel-attal-dans-l-emission-l-heure-de-verite-sur-france-2_8290544.html) ; [OCDE, base de données sur la productivité, PIB par heure travaillée en volume, France et États-Unis, 2000 à 2025, consultée le 21/11/2026](https://sdmx.oecd.org/public/rest/data/OECD.SDD.TPS,DSD_PDB@DF_PDB,/FRA+USA.A.GDPHRS........?startPeriod=2000&format=csvfilewithlabels)
+
 ### Bardella : la TVA à 5,5 % sur les carburants ferait gagner environ 12 € sur un plein de 50 litres, pas 20 €
 
 *RN · Énergie, fiscalité · 20 novembre 2026*
